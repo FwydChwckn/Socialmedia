@@ -11,8 +11,8 @@ import {
 } from "react-icons/bs";
 const Sidebar = () => {
   return (
-    <div className="flex-[3] h-[calc(100vh-50px)] overflow-y-scroll">
-      <div className="p-[20px] ">
+    <div className="flex-[3]  flex overflow-y-scroll h-screen top-[50px]  sticky">
+      <div className="p-[20px] mb-[50px]">
         <ul className="p-0 m-0 list-none">
           {" "}
           <li className="flex items-center mb-[20px]">
@@ -65,6 +65,47 @@ const Sidebar = () => {
             />
             <span className="">Mahal ♥️💕❤️❣️❤️‍🔥😘🥰</span>
           </li>
+          <li className="flex items-center mb-[15px]">
+            <img
+              className="w-[32px] h-[32px] rounded-xl object-cover mr-[10px]"
+              src="/assets/person/308580969_10225088757559654_747653972760617542_n.jpg"
+              alt=""
+            />
+            <span className="">Mahal ♥️💕❤️❣️❤️‍🔥😘🥰</span>
+          </li>
+          <li className="flex items-center mb-[15px]">
+            <img
+              className="w-[32px] h-[32px] rounded-xl object-cover mr-[10px]"
+              src="/assets/person/308580969_10225088757559654_747653972760617542_n.jpg"
+              alt=""
+            />
+            <span className="">Mahal ♥️💕❤️❣️❤️‍🔥😘🥰</span>
+          </li>
+          <li className="flex items-center mb-[15px]">
+            <img
+              className="w-[32px] h-[32px] rounded-xl object-cover mr-[10px]"
+              src="/assets/person/308580969_10225088757559654_747653972760617542_n.jpg"
+              alt=""
+            />
+            <span className="">Mahal ♥️💕❤️❣️❤️‍🔥😘🥰</span>
+          </li>
+          <li className="flex items-center mb-[15px]">
+            <img
+              className="w-[32px] h-[32px] rounded-xl object-cover mr-[10px]"
+              src="/assets/person/308580969_10225088757559654_747653972760617542_n.jpg"
+              alt=""
+            />
+            <span className="">Mahal ♥️💕❤️❣️❤️‍🔥😘🥰</span>
+          </li>
+          <li className="flex items-center mb-[15px]">
+            <img
+              className="w-[32px] h-[32px] rounded-xl object-cover mr-[10px]"
+              src="/assets/person/308580969_10225088757559654_747653972760617542_n.jpg"
+              alt=""
+            />
+            <span className="">Mahal ♥️💕❤️❣️❤️‍🔥😘🥰</span>
+          </li>
+
           <li className="flex items-center mb-[15px]">
             <img
               className="w-[32px] h-[32px] rounded-xl object-cover mr-[10px]"

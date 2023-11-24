@@ -4,7 +4,7 @@ import { BsFillPersonFill, BsFillChatFill } from "react-icons/bs";
 import { RiNotification4Fill } from "react-icons/ri";
 const Topbar = () => {
   return (
-    <div className=" h-[50px] w-[100%] justify-justify-between flex bg-indigo-500 items-center  fixed top-0">
+    <div className=" h-[50px] w-[100%] justify-justify-between flex bg-indigo-500 items-center  sticky z-40 top-0">
       <div className="flex-[3]">
         <span className="text-[30px] ml-[20px] font-bold text-white cursor-pointer">
           Peacebook

@@ -7,7 +7,7 @@ const home = () => {
   return (
     <>
       <Topbar />
-      <div className="mt-[50px] flex w-[100%] ">
+      <div className="mt-[10px] flex w-[100%] ">
         <Sidebar />
         <Feed />
         <Rightbar />
